@@ -1,4 +1,4 @@
-QQbot备份  bug修复，/app/wwwroot/page/JDC  搜关键词JDCookie修改任意字符
+QQbot备份  bug修复，qqbot/wwwroot/page/jdCookie.html第73行 JDCookie修改任意字符
 ```
 docker pull asupc/qqbot
 mkdir qqbot1
